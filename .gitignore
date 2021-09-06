@@ -1,0 +1,4 @@
+shared/d3rlpy_logs*
+shared/checkpoints*
+shared/outputs*
+shared/*.csv
